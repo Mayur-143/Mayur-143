@@ -42,6 +42,6 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
 ## Connect with Me
-- [LinkedIn](www.linkedin.com/in/mayuresh-chimankar)
+- [LinkedIn]([www.linkedin.com/in/mayuresh-chimankar](https://www.linkedin.com/in/mayuresh-chimankar))
 
 
